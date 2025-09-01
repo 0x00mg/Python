@@ -1,3 +1,6 @@
+# script na filtrovanie obchodov z csv fatty sniping bota
+# pred pouzitim je potreba csv upravit na samostatne stlpce
+
 import pandas as pd
 import math
 
